@@ -1,4 +1,4 @@
-import 'package:json_delta/json_delta.dart';
+import 'package:json_delta_tool/json_delta_tool.dart';
 import 'package:test/test.dart';
 
 void main() {

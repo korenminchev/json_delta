@@ -1,5 +1,5 @@
-name: json_delta
-description: A starting point for Dart libraries or applications.
+name: json_delta_tool
+description: A simple tool for calculating the delta (difference) between 2 json objects with the same schema.
 version: 1.0.0
 repository: https://github.com/korenminchev/json_delta
 
