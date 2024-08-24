@@ -1,7 +1,7 @@
 /// Support for doing something awesome.
 ///
 /// More dartdocs go here.
-library;
+library json_delta;
 
 export 'src/json_delta_base.dart';
 
